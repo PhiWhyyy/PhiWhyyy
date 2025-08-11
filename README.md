@@ -1,4 +1,4 @@
-# Hi, I'm Sreya 👋  
+# Hi, I'm Sreya🌻  
 **Mathematics MSc | Analyst | Researcher in Solar Physics| Science Communicator**  
 
 Passionate about uncovering insights from data - whether it's decoding solar quakes or optimizing user funnels.  
