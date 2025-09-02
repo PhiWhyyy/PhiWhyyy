@@ -14,7 +14,7 @@ Exploring patterns in the cosmos through data, machine learning, and computation
 | [Solar Quake](https://github.com/PhiWhyyy/SolarData-Sept-2017-) | Identifying and analyzing seismic emissions on the Sun and correlating them with solar flare activity. | Python, Astropy, SunPy, FITS processing, ML models |
 | [Image Compression](https://github.com/PhiWhyyy/Hybrid-program-for-image-compression-in-SVD-and-DWT) | Master's thesis: Developed SVD + DWT hybrid model for high compression with minimal loss. | Python, MATLAB, NumPy, OpenCV |
 | [Low-Cost Satellite Imaging Algorithm](https://colab.research.google.com/drive/1YLacyX3Wunz2_80YdHYfrejP9uvBwKk0?usp=sharing) | Algorithm to compress satellite images for local space orgs with minimal quality drop. | Python, PIL, Image Processing |
-|[Internship Lecture for RKMVERI](https://colab.research.google.com/drive/1_HVe8J3mbpWUJDMgUck8g-GmUL2RoryX#scrollTo=v4nomna0wm1G)| Took a 3hour session on Mathematics of Image processiong to internship tudents and co-mentored them| Image Processing, Singular Value Decomposition, Wavelet Transformation, Fourier Transformation, Image Detection, Segmentation, Computational Astrophysics.| 
+|[Internship Lecture for RKMVERI](https://colab.research.google.com/drive/1_HVe8J3mbpWUJDMgUck8g-GmUL2RoryX#scrollTo=v4nomna0wm1G)| Took a 3-hour session on Mathematics of Image processing to internship students and co-mentored them| Image Processing, Singular Value Decomposition, Wavelet Transformation, Fourier Transformation, Image Detection, Segmentation, Computational Astrophysics.| 
 ---
 
 ## 📊 BI & Analytics Projects  
@@ -23,7 +23,7 @@ Turning raw data into actionable insights for business growth.
 | Project | Description | Tools & Skills |
 |---------|-------------|----------------|
 | [Sales Dashboard](To be updated) | Interactive dashboard analyzing sales performance and KPIs. | Power BI, DAX, SQL |
-| [User Behavior Funnel Analysis]To be updated) | Identified drop-off points in user journey to improve conversion rates. | Google Analytics, SQL, Excel |
+| [User Behavior Funnel Analysis]To be updated) | Identified drop-off points in the user journey to improve conversion rates. | Google Analytics, SQL, Excel |
 | [Competitive Market Analysis](To be updated) | Benchmarked competitors to inform marketing & pricing strategies. | Excel, Power BI, Market Research |
 
 ---
