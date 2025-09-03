@@ -39,7 +39,7 @@ Turning raw data into actionable insights for business growth.
 
 **Peer-Reviewed Publications**  
 - *Analyzing the Gnevyshev Gap across Odd–Even Solar Cycles (SC 19–25) Using Sunspot Number and Solar Radio Flux (F10.7 and F30)*, with Santanu Basu & Adhiraj Saha – *Research Notes of the AAS*, 2024. [Read here](https://iopscience.iop.org/article/10.3847/2515-5172/ae0030)  
-- *Fuzzy Initial Value Problems using Cubic Splines*, with Prof. Sreenivasulu Ballem & Sadimela Nagajyothi and others – *KRONIKA Journal (Scopus Indexed)*, 2024.  
+- *Fuzzy Initial Value Problems using Cubic Splines*, with Prof. Sreenivasulu Ballem & Sadimela Nagajyothi and others – (accepted and yet to publish)*KRONIKA Journal (Scopus Indexed)*, 2024.  
 
 **Conferences & Posters**  
 - *Solar Quake Identification using Machine Learning* (Poster) – *SciPy 2025 (Virtual)*.  
