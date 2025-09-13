@@ -24,7 +24,7 @@ Turning raw data into actionable insights for business growth.
 | Project | Description | Tools & Skills |
 |---------|-------------|----------------|
 | [The Earthen Boutique – Styling Service Flow](https://github.com/PhiWhyyy/Hypothetical-Business-Model--The-Earthen-Boutique) | Designed an end-to-end business process flow for a sustainable boutique offering styling services in fashion & home décor. | Business Process Mapping, Analytics, User-based Marketing, LucidChart, Canva, Strategy Design |
-| [Sales Dashboard (WIP)] | Interactive dashboard analyzing sales performance and KPIs. | Power BI, DAX, SQL |
+| [Sales Dashboard (https://github.com/PhiWhyyy/E-Commerce-Business-Analysis)] | Interactive dashboard analyzing sales performance and KPIs. | Python, Business Process, Power BI, DAX, SQL |
 | [User Behavior Funnel Analysis (WIP)] | Identified drop-off points in the user journey to improve conversion rates. | Google Analytics, SQL, Excel |
 | [Competitive Market Analysis (WIP)] | Benchmarked competitors to inform marketing & pricing strategies. | Excel, Power BI, Market Research |
 
